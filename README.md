@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kx-Huang&layout=compact&theme=chartreuse-dark&exclude_repo=Embedded-T-Rex-Runner,kx-Huang.github.io&langs_count=6&border_radius=16" />
+    <img align="center" height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kx-Huang&layout=compact&theme=chartreuse-dark&exclude_repo=Embedded-T-Rex-Runner,kx-Huang.github.io&langs_count=6&border_radius=16" />
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=kx-Huang&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=16" />
+    <img align="center" height="178" src="https://github-readme-stats.vercel.app/api?username=kx-Huang&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=16" />
   </a>
 </p>
 
