@@ -16,24 +16,21 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/kx-Huang/count.svg" />
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=kx-Huang&show_icons=true&theme=dark&include_all_commits=true" />
+    <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kx-Huang&layout=compact&theme=chartreuse-dark&exclude_repo=Embedded-T-Rex-Runner,kx-Huang.github.io&langs_count=6&border_radius=16" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kx-Huang&layout=compact&theme=dark" />
+    <img align="center" height="210" src="https://github-readme-stats.vercel.app/api?username=kx-Huang&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=16" />
   </a>
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kx-Huang&theme=dark" align="center" />
 </p>
 
-<hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kx_Huang&layout=compact&theme=dark" />
+    <img align="center" height="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=kx_Huang&layout=compact&theme=github_dark" />
   </a>
 </p>
