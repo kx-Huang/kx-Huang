@@ -1,4 +1,4 @@
-### Hi there, my friend 👋
+### Hi there, friend 👋
 
 <!--
 **kx-Huang/kx-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
