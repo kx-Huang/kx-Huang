@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="178" src="https://github-readme-stats.vercel.app/api?username=kx-Huang&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=16" />
+    <img align="center" height="178" src="https://github-readme-stats.vercel.app/api?username=kx-Huang&show_icons=true&theme=vision-friendly-dark&count_private=true&border_radius=15" />
   </a>
 </p>
 
