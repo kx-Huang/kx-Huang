@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/kx-Huang">
-    <img align="center" height="420" src="https://github-readme-stats-kx-huang.vercel.app/api/wakatime?username=kx_Huang&layout=compact&theme=github_dark&langs_count=22&hide=markdown,text,other" />
+    <img align="center" height="420" src="https://github-readme-stats-kx-huang.vercel.app/api/wakatime?username=kx_Huang&layout=compact&theme=github_dark&langs_count=22&hide=markdown,text,other&range=all_time" />
   </a>
 </p>
