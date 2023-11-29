@@ -1,4 +1,6 @@
-### Hi there, friend 👋
+### Hi there, my friend 👋
+
+I am actively seeking 2024 new graduate software positions in United States, please do contact me at hkx@umich.edu if you are recruiting!
 
 <!--
 **kx-Huang/kx-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
