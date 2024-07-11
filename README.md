@@ -1,6 +1,10 @@
 ### Hi there, my friend 👋
 
-I am actively seeking 2024 new graduate software positions in United States, please do contact me at hkx@umich.edu if you are recruiting!
+I'm a Software Engineer @Apple  Core OS team, based in Cupertino, CA.
+
+Before that, I studied Information Science @UMich, ECE/CS @SJTU
+
+Reach me at [hkx@umich.edu](mailto:hkx@umich.edu) and let's talk!
 
 <!--
 **kx-Huang/kx-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
