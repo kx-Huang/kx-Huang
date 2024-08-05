@@ -2,9 +2,9 @@
 
 I'm a Software Engineer @Apple  Core OS team, based in Cupertino, CA.
 
-Before that, I studied Information Science @UMich, ECE/CS @SJTU
+Before that, I studied Information Science @UMich, ECE & CS @SJTU
 
-Reach me at [hkx@umich.edu](mailto:hkx@umich.edu) and let's talk!
+Reach me at [kxuan.huang@gmail.com](mailto:kxuan.huang@gmail.com) and let's talk!
 
 <!--
 **kx-Huang/kx-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
