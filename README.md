@@ -1,8 +1,8 @@
 ### Hi there, my friend 👋
 
-I'm a Software Engineer @Apple  Core OS team, based in Cupertino, CA.
+- Currenly, I'm a Software Engineer @Apple  Core OS team, based in Cupertino, CA.
 
-Before that, I studied Information Science @UMich, ECE & CS @SJTU
+- Alumni @UMich @SJTU
 
 Reach me at [kxuan.huang@gmail.com](mailto:kxuan.huang@gmail.com) and let's talk!
 
