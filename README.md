@@ -3,7 +3,7 @@
 - Currenly, I'm a Software Engineer @Apple  Core OS team, based in Cupertino, CA.
 
 - Alumni @UMich @SJTU
-- Champions @Apple @Google Bay Area Badminton Open 2024
+- Champions @Apple Badminton Open 2024/2025 @Google Bay Area Badminton Open 2024
 
 Reach me at [kxuan.huang@gmail.com](mailto:kxuan.huang@gmail.com) and let's talk!
 
