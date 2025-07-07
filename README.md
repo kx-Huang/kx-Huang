@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/kx-Huang/count.svg" />
 </p>
+-->
 
 <p align="center">
   <a href="https://github.com/kx-Huang">
